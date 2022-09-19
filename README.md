@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am currently a student at UIC studying SWE.
+You can reach me via email at arturo.u.contreras@gmail.com
+
 <!--
 **arturo-u-contreras/arturo-u-contreras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
