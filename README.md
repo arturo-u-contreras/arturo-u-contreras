@@ -1,6 +1,6 @@
 ### ¡Mucho gusto! 👋
 
-I am currently a student at UIC studying SWE. |
+I am currently studying SWE at UIC. |
 You can reach me via email at arturo.u.contreras@gmail.com |
 Fanatico del Madrid, Atlético Morelia, y la Selección Mexicana
 
