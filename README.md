@@ -1,8 +1,8 @@
 ### ¡Mucho gusto! 👋
 
-I am currently studying SWE at UIC. |
+UIC Alumni |
 You can reach me via email at arturo.u.contreras@gmail.com |
-Fanatico del Madrid, Atlético Morelia, y la Selección Mexicana
+Fanatico del Real Madrid, Atlético Morelia, y la Selección Mexicana
 
 <!--
 **arturo-u-contreras/arturo-u-contreras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
